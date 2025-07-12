@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // This widget is the root of your application.
-  @override
+  @overrid
   Widget build(BuildContext context) {
     return ScreenUtilInit(
       designSize: Size(375, 812),
